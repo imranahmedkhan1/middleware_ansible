@@ -157,10 +157,9 @@ was_version="8.5.5009.20160225_0435"
 
 # Authors
 
-* **Enio Basso** - *Initial work* - [My Repository](https://github.com/ebasso)
+* **IMRAN AHMED** -
 
 
-See also the list of [contributors](https://github.com/ebasso/ansible-ibm-websphere/graphs/contributors) who participated in this project.
 
 # License
 
